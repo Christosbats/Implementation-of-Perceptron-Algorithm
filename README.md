@@ -1,5 +1,5 @@
-# Implementation-of-Perceptron-Algorithm
-Implementation of Perceptron Algorithm for a 2-Input OR and AND Logic Gates 
+# An implementation-of-Perceptron-Algorithm
+An implementation of Perceptron Algorithm for a 2-Input OR and AND Logic Gates 
 
 Results
 
